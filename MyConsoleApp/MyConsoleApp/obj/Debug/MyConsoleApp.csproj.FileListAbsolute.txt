@@ -1,0 +1,6 @@
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csprojResolveAssemblyReference.cache
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\GitTest\GitTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
